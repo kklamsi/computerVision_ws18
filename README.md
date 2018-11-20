@@ -5,7 +5,7 @@ Computer Vision - Wintersemester 2018/19
 
 ## Task 1: Detailed Paper Review
 
-Paper: Deep residual learning for image recognition, He et al., CVPR 2016
+Paper: Deep residual learning for image recognition, He et al., CVPR 2016<br>
 Summary: https://docs.google.com/document/d/1PBkVnN-WhAEwzD5KuN3zyFDHKIKxV-py9vpSwLUXYQQ/edit?usp=sharing
 
 ## Task 2: Project Image recognition (with ResNets)
