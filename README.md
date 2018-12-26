@@ -7,6 +7,7 @@ Computer Vision - Wintersemester 2018/19
 
 Paper: Deep residual learning for image recognition, He et al., CVPR 2016<br>
 Summary: https://docs.google.com/document/d/1PBkVnN-WhAEwzD5KuN3zyFDHKIKxV-py9vpSwLUXYQQ/edit?usp=sharing
+GitHub: https://github.com/KaimingHe/deep-residual-networks
 
 ## Task 2: Project Image recognition (with ResNets)
 
