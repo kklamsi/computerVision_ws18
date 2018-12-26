@@ -7,7 +7,7 @@ Computer Vision - Wintersemester 2018/19
 
 Paper: Deep residual learning for image recognition, He et al., CVPR 2016<br>
 Summary: https://docs.google.com/document/d/1PBkVnN-WhAEwzD5KuN3zyFDHKIKxV-py9vpSwLUXYQQ/edit?usp=sharing
-GitHub: https://github.com/KaimingHe/deep-residual-networks
+GitHub: https://github.com/KaimingHe/deep-residual-networks<br>
 Source code for torchvision.models.resnet: https://pytorch.org/docs/0.4.0/_modules/torchvision/models/resnet.html
 
 ## Task 2: Project Image recognition (with ResNets)
